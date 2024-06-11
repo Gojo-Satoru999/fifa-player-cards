@@ -1,7 +1,7 @@
 // src/App.js
 
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Player from './components/Player';
 import PlayersList from './components/PlayersList';
 import players from './players';
@@ -21,3 +21,4 @@ const App = () => {
 
 export default App;
   
+// import 'bootstrap/dist/css/bootstrap.min.css';
